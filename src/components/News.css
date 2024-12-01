@@ -1,0 +1,9 @@
+
+.container2{
+  justify-content: center;
+  display: flex;
+  padding: 10px;
+}
+.newsitem{
+  padding: 30px;
+}
